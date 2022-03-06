@@ -1,4 +1,4 @@
-//desenvolvido com PORTUGOL STUDIO
+
 
 programa
 {
@@ -35,7 +35,7 @@ programa
 
 
 
-//mediana 
+
 
       se(n%2==0){
       	md = (n/2)
